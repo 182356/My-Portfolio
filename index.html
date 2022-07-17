@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vihaan Pundir</title>
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body onload="typeWriter()" onload="typeWriter2()">
+    <a href="https://github.com/vihaanpundir"><img src="https://www.ddesignerr.com/wp-content/uploads/2022/01/thumb-1920-1025938-800x600.png" width="100px" height=100px; style="border-radius:60px;float:left;margin-left:10px;" /></a>
+    <center>
+      <div style="margin-left:50px;width:1000px;height:600px;color:white;backdrop-filter: blur(5px);border: 2px solid white;border-radius:15px;padding:10px;margin-top:45px;">
+
+        <h1 style="padding-left:5px;text-align: left;">I am a</h1><h1 style="text-align: left;color:white;" id=im>Developer</h1>
+        <p style="padding-left:5px;color:white;">I am Vihaan Pundir, a 11 year old kid with a passion <br/>for coding. I like to code web apps and enjoy video games.</p>
+        <h2 style="padding-left:5px;text-align: left;">Languages I use</h2>
+        <div style="background-color:#141313; color:white;width:40%px;height:100px;border-radius:20px;padding:10px;margin-left:5px;">
+          <div style=margin-left:240px;text-align:center;color:white;background-color:#171717;float:left;border-radius:15px;padding:10px;color:white;width:70px;><p>Python<p></div>
+          <div style=text-align:center;margin-left:10px;color:white;background-color:#171717;float:left;border-radius:15px;padding:10px;color:white;width:70px;><p>HTML<p></div>
+          <div style=text-align:center;margin-left:10px;color:white;background-color:#171717;float:left;border-radius:15px;padding:10px;color:white;width:70px;><p>CSS<p></div>
+          <div style=text-align:center;margin-left:10px;color:white;background-color:#171717;float:left;border-radius:15px;padding:10px;color:white;width:70px;><p>JS<p></div>
+          <div style=text-align:center;margin-left:10px;color:white;background-color:#171717;float:left;border-radius:15px;padding:10px;color:white;width:70px;><p>Dart<p></div>
+        </div>
+        <a style="margin-top:10px;" class="but" href="/projects.html"><h1>My Projects</h1></a>
+        <script>
+          document.addEventListener('DOMContentLoaded',function(event){
+  // array with texts to type in typewriter
+  var dataText = [ "Developer", "Designer", "Student"];
+  
+  // type one text in the typwriter
+  // keeps calling itself until the text is finished
+  function typeWriter(text, i, fnCallback) {
+    // chekc if text isn't finished yet
+    if (i < (text.length)) {
+      // add next character to h1
+     document.getElementById("im").innerHTML = text.substring(0, i+1) +'<span aria-hidden="true"></span>';
+
+      // wait for a while and call this function again for next character
+      setTimeout(function() {
+        typeWriter(text, i + 1, fnCallback)
+      }, 100);
+    }
+    // text finished, call callback if there is a callback function
+    else if (typeof fnCallback == 'function') {
+      // call callback after timeout
+      setTimeout(fnCallback, 700);
+    }
+  }
+  // start a typewriter animation for a text in the dataText array
+   function StartTextAnimation(i) {
+     if (typeof dataText[i] == 'undefined'){
+        setTimeout(function() {
+          StartTextAnimation(0);
+        }, 20000);
+     }
+     // check if dataText[i] exists
+    if (i < dataText[i].length) {
+      // text exists! start typewriter animation
+     typeWriter(dataText[i], 0, function(){
+       // after callback (and whole text has been animated), start next text
+       StartTextAnimation(i + 1);
+     });
+    }
+  }
+  // start the text animation
+  StartTextAnimation(0);
+});
+        </script>
+        
+      </div>
+    </center>
+  </body>
+</html>
