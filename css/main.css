@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+.widget {
+
+  background-color: white;
+  border-radius: 20px;
+  transition: all 0.5s ease;
+  transform: scale(1);
+}
+
+.widget:hover {
+  background-color: #ff8c1a;
+  transform: scale(1.1) perspective(1px)
+}
+
+.but {
+  backdrop-filter: blur(6px);
+  border-radius: 15px;
+  background-color: white; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.but:hover {
+  background-color:black;
+  color:white;
+}
+p {
+  font-family: 'Monda', sans-serif;
+  font-size: 20px;
+  color:#7e7e7e;
+}
+body {
+  background-image:url('https://wallpaperaccess.com/full/235784.jpg'); 
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 17px;
+  color:white;
+}
+h1 {
+  font-family: 'Inter', sans-serif;
+}
+h2 {
+  font-family: 'Inter', sans-serif;
+}
+span {
+  border-right: .05em solid;
+  animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
