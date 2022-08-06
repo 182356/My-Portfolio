@@ -5,23 +5,18 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+  - [Open it](#link)
+- [How to use](#how to)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Contacts](#contacts)
 
 ## Description
 
 This is my portfolio where I upload my projects :)
 
-## Screenshots
-
-<img src="<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/32111149471061.58b68b0e3eba8.jpg" />" />## Built With
 
 <a href="https://www.android.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40px" width="40px" /></a><a href="https://www.apple.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="40px" width="40px" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40px" width="40px" /></a><a href="https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=msvc-160"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40px" width="40px" /></a><a href="https://docs.oracle.com/javase/tutorial/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40px" width="40px" /></a><a href="https://en.wikipedia.org/wiki/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40px" width="40px" /></a><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40px" width="40px" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40px" width="40px" /></a><a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="40px" width="40px" /></a><a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.icons8.com/fluent/100/000000/swiftui.png" height="40px" width="40px" /></a><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40px" width="40px" /></a>
 
@@ -33,24 +28,21 @@ This is my portfolio where you can get information about me!
 
 Chrome, Brave, Firefox, Safari
 
-### Installation
+### Link
 
 Just go here- 
  https://projectfolio.netlify.app/
 
 
-## Usage
+## How to
 
-Just see and follow me here :)
+Open the site and there!
 
 
 ## License
 
 <a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
 
-## Acknowledgements
-
-Who helped you make this project a reality? Friends? Family? Contributors? Instructors?
 
 ## Follow if you like!
 
