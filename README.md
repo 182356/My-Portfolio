@@ -9,7 +9,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Open it](#link)
-- [How to use](# how to)
+- [How to use](#how-to)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -17,7 +17,7 @@
 
 This is my portfolio where I upload my projects :)
 
-## build-with
+## Built-with
 
 
 <a href="https://www.android.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40px" width="40px" /></a><a href="https://www.apple.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="40px" width="40px" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40px" width="40px" /></a><a href="https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=msvc-160"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40px" width="40px" /></a><a href="https://docs.oracle.com/javase/tutorial/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40px" width="40px" /></a><a href="https://en.wikipedia.org/wiki/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40px" width="40px" /></a><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40px" width="40px" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40px" width="40px" /></a><a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="40px" width="40px" /></a><a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.icons8.com/fluent/100/000000/swiftui.png" height="40px" width="40px" /></a><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40px" width="40px" /></a>
